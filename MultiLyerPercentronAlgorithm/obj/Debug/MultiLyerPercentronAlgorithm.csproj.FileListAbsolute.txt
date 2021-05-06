@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\bin\Debug\MultiLyerPercentronAlgorithm.exe.config
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\bin\Debug\MultiLyerPercentronAlgorithm.exe
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\bin\Debug\MultiLyerPercentronAlgorithm.pdb
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\obj\Debug\MultiLyerPercentronAlgorithm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\obj\Debug\MultiLyerPercentronAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\obj\Debug\MultiLyerPercentronAlgorithm.exe
+C:\Users\User\Desktop\CSE-4516 Pattern Recognition and Neural Networks Sessional (Lab)\MultiLyerPercentronAlgorithm\MultiLyerPercentronAlgorithm\obj\Debug\MultiLyerPercentronAlgorithm.pdb
